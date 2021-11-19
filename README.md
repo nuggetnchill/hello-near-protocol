@@ -2,6 +2,8 @@ Nearvember Challenge #3
 
 # hello-near-protocol
 
+Live Version Here: [https://hello-near.netlify.app/](https://hello-near.netlify.app/)
+
 This [React] app was initialized with [create-near-app]
 
 # Quick Start
